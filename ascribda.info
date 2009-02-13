@@ -1,0 +1,5 @@
+; $Id
+name = Auto-upload pdf attachments to Scribd
+description = Allow attached file of any content type to automatically upload to scribd.
+version = 5.x-0.1
+dependencies = ipaper
